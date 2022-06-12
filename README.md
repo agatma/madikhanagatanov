@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madikhanagatanov
 - 🌱 I’m currently learning python, ML
-- 📫 You can reach me in telegram @agatMA or in vk vk.com/agatma
+- 📫 You can reach me through telegram @agatMA or vk vk.com/agatma
 
 <!---
 madikhanagatanov/madikhanagatanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
